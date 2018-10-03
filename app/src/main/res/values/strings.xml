@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">SayiTahminOyunu</string>
+    <string name="tahmin_et">Tahmin Et</string>
+    <string name="sayi_giriniz">Sayi Giriniz</string>
+    <string name="kalan_5">Kalan : 5</string>
+    <string name="oyuna_ba_la">Oyuna Başla</string>
+    <string name="sayi_tahmin_et">Sayi Tahmin Et</string>
+    <string name="todo">TODO</string>
+</resources>
